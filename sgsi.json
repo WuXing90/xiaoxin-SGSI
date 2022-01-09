@@ -1,14 +1,14 @@
 {
-  "rom_url": "https://bigota.d.miui.com/21.12.29/miui_TUCANA_21.12.29_b12b30218c_11.0.zip",
+  "rom_url": "https://bigota.d.miui.com/21.12.30/miui_CHOPINPRE_21.12.30_ca4bdab884_12.0.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
   "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
-  "version": "11",
-  "upload_transfer": true,
-  "upload_release": false,
+  "version": "12",
+  "upload_transfer": false,
+  "upload_release": true,
   "use_7zip": true,
   "use_zip": false
 }
